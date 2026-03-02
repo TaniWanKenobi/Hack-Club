@@ -146,11 +146,6 @@ const Navigation = props => (
     <Link href="https://slack.hackclub.com">Join</Link>
     <NextLink href="https://toolbox.hackclub.com/" passHref>
       <Link>Toolbox</Link>
-    </NextLink>
-    <Link href="https://flavortown.hackclub.com/?ref=site-nav">Flavortown</Link>
-    <NextLink href="/philanthropy" passHref>
-      <Link>Donors</Link>
-    </NextLink>
   </NavBar>
 )
 
